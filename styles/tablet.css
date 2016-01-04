@@ -1,0 +1,35 @@
+@media only screen and (min-height: 768px) and
+(orientation: portrait) and
+(max-height: 1050px) {
+    .gallery-text-body p {
+        font-size: 1.5em;
+    }
+}
+
+@media only screen and (min-width: 768px) and
+(orientation: landscape) and
+(max-width: 1050px) {
+    .gallery-body {
+        width: auto;
+        margin: 0 15% 0 1%;
+    }
+
+    .gallery-text-body p {
+        font-size: 1em;
+    }
+
+    .contact-body {
+        width: auto;
+        margin: 0 15% 0 1%;
+    }
+
+    .contact-text-body p {
+        font-size: 1em;
+    }
+
+    .my-image {
+        float: left;
+        height: 30%;
+    }
+
+}

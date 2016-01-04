@@ -1,0 +1,27 @@
+Recommended image formats for articles
+***********************
+Small (400px by 400px) 1:1
+filename-gall.png
+
+Medium (1920 by 1080px) 16:9
+filename-1080p.png
+
+Large (3840 by 2160) 16:9
+filename-4k.png
+
+
+
+***********************
+Other Image Conventions
+***********************
+avatar.png (400px) 1:1
+
+splash-back-1080.png
+splash-back-4k.png
+
+sig-header.png
+sig-splash.png
+sig-background.png
+sig-background-p.png
+
+
